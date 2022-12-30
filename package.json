@@ -5,7 +5,7 @@
   "devDependencies": {
     "@anttiviljami/serverless-stack-output": "^0.3.1",
     "http-server": "^0.11.1",
-    "serverless": "^1.46.0",
+    "serverless": "^1.83.3",
     "serverless-plugin-common-excludes": "^2.4.0",
     "serverless-plugin-include-dependencies": "^3.2.1",
     "serverless-stack-output": "^0.2.3"
